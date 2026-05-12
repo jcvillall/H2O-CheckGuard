@@ -47,8 +47,6 @@ Desarrollado en [Wokwi](https://wokwi.com/projects/463518116298479617) — simul
 
 ## Institución
 
-Universidad Nacional Abierta y a Distancia — UNAD
-Alexis Zorrilla Ruiz 
-Juan Camilo Villalobos Ramírez 
-202016907 - Proyecto de grado 
-Tutor: Rubén Darío Ordóñez M. 
+- Universidad Nacional Abierta y a Distancia — UNAD
+- 202016907 - Proyecto de grado 
+- Tutor: Rubén Darío Ordóñez M. 

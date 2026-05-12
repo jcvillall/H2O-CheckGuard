@@ -42,8 +42,8 @@ Desarrollado en [Wokwi](https://wokwi.com/projects/463518116298479617) — simul
 
 ## Autores
 
-- [Nombre estudiante 1]
-- [Nombre estudiante 2]
+- Juan Camilo Villalobos Ramírez
+- Alexis Zorrilla Ruiz
 
 ## Institución
 
